@@ -1,19 +1,19 @@
-﻿Name,Type,Group,Risk,Lead,Team,Partners,Project_Start,Project_End,Sondes,Pumps,Flow,Stage
-Stithians Reservoir,Scheme,1,"Blue-green algae, geosmin, ammonium, colour, DOC, turbidity",Emilie,"Dave, Donna and Emilie",CWT,01/04/2020,01/04/2025,2,1,0,2
-Wistlandpound Reservoir,Scheme,2,"Blue-green algae, geosmin, MIB",Emilie,"Dave, Donna and Emilie","DWT, NDP",01/04/2020,01/04/2025,5,3,2,4
-Roadford Lake,Scheme,3,"Geosmin, MIB",Emilie,"Dave, Donna and Emilie","DWT, WRT",01/04/2020,01/04/2025,1,1,1,4
-Burrator Reservoir,Scheme,1,DOC,Pia,"Dave, Donna, Josie, Naomi and Pia","SWPP, SWLT",01/04/2020,01/04/2025,7,2,6,6
-Meldon Reservoir,Investigation,1,"DOC, TOC, Manganese",Dave,"Dave, Donna, Josie, Naomi and Pia",NA,01/04/2020,01/04/2022,1,1,1,4
-Tavy,Investigation,2,"Geosmin, DOC",Naomi,"Dave, Emilie, Josie, Naomi and Pia",NA,01/04/2020,01/04/2022,4,4,4,2
-Colliford Lake,Investigation,3,"Geosmin, Manganese (total and dissolved)",Pia,"Dave, Emilie, Josie, Naomi and Pia",NA,01/04/2020,01/04/2022,0,0,1,2
-Avon Dam Reservoir,Investigation,3,"Geosmin, MIB",Pia,"Dave, Emilie, Josie, Naomi and Pia",NA,01/04/2020,01/04/2022,1,0,1,2
-Exe,BAU,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
-Otter,BAU,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
-Tamar,BAU,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
-Drift,BAU,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
-Fernworthy,BAU,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
-Cober,BAU,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
-Dart,BAU,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
-Fowey,BAU,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
-Barnstaple Yeo,BAU,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
-College and Argal,BAU,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
+﻿Name,Type,Group,Risk,Lead,Team,Partners,WTW,Project_Start,Project_End,Sondes,Pumps,Flow,Stage
+Stithians Reservoir,Scheme,1,"Blue-green algae, geosmin, ammonium, colour, DOC, turbidity",Emilie,"Dave, Donna and Emilie",CWT,Stithians,01/04/2020,01/04/2025,2,1,0,2
+Wistlandpound Reservoir,Scheme,2,"Blue-green algae, geosmin, MIB",Emilie,"Dave, Donna and Emilie","DWT, NDP","Bratton Fleming, Horedown",01/04/2020,01/04/2025,5,3,2,4
+Roadford Lake,Scheme,3,"Geosmin, MIB",Emilie,"Dave, Donna and Emilie","DWT, WRT","Northcombe,?",01/04/2020,01/04/2025,1,1,1,4
+Burrator Reservoir,Scheme,1,DOC,Pia,"Dave, Donna, Josie, Naomi and Pia","SWPP, SWLT","Dousland, Crownhill, Mayflower, Littlehempston",01/04/2020,01/04/2025,7,2,6,6
+Meldon Reservoir,Investigation,1,"DOC, TOC, Manganese",Dave,"Dave, Donna, Josie, Naomi and Pia",NA,Prewley,01/04/2020,01/04/2022,1,1,1,4
+Tavy,Investigation,2,"Geosmin, DOC",Naomi,"Dave, Emilie, Josie, Naomi and Pia",NA,"Crownhill, Mayflower",01/04/2020,01/04/2022,4,4,4,2
+Colliford Lake,Investigation,3,"Geosmin, Manganese (total and dissolved)",Pia,"Dave, Emilie, Josie, Naomi and Pia",NA,"St Cleer, DeLank, Lowermoor, Restomel",01/04/2020,01/04/2022,0,0,1,2
+Avon Dam Reservoir,Investigation,3,"Geosmin, MIB",Pia,"Dave, Emilie, Josie, Naomi and Pia",NA,Avon,01/04/2020,01/04/2022,1,0,1,2
+Exe,BAU,NA,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
+Otter,BAU,NA,NA,NA,NA,NA,"Ottery, Dotton",01/04/2020,01/04/2025,NA,NA,NA,NA
+Tamar,BAU,NA,NA,NA,NA,NA,"Crownhill, Littlehempston, Mayflower?, Tamar Lake?",01/04/2020,01/04/2025,NA,NA,NA,NA
+Drift,BAU,NA,NA,NA,NA,NA,Drift,01/04/2020,01/04/2025,NA,NA,NA,NA
+Fernworthy,BAU,NA,NA,NA,NA,NA,Tottiford,01/04/2020,01/04/2025,NA,NA,NA,NA
+Cober,BAU,NA,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
+Dart,BAU,NA,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
+Fowey,BAU,NA,NA,NA,NA,NA,NA,01/04/2020,01/04/2025,NA,NA,NA,NA
+Barnstaple Yeo,BAU,NA,NA,NA,NA,NA,Bratton Flemming,01/04/2020,01/04/2025,NA,NA,NA,NA
+College and Argal,BAU,NA,NA,NA,NA,NA,College,01/04/2020,01/04/2025,NA,NA,NA,NA
